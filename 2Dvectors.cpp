@@ -19,6 +19,7 @@ int main(){
 		}
 		cout<<endl;
 	}
+	//vhvjbkb
 getch();
 return 0;
 }
