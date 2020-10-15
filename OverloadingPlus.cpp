@@ -6,6 +6,7 @@ using namespace std;
 int main(){
 	// this is connected with complex number class part. Study that section before.
 //Your code comes here.
+	//njkkn
 getch();
 return 0;
 }
