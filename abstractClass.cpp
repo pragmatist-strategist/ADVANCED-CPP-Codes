@@ -11,6 +11,7 @@ public:
 	virtual void run()=0;
 virtual void speak();	
 };
+//animal
 class Dog: public Animal
 {
 public:
