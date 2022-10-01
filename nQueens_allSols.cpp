@@ -46,3 +46,11 @@ public:
         return total;
     }
 };
+
+int main(){
+    Solution s = Solution();
+    cout << "Input the size of chessboard: ";
+    int n; cin>>n;
+
+    cout << "The total possible solutions are: " << s.totalNQueens(n);
+}
