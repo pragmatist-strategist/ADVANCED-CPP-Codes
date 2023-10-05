@@ -4,6 +4,8 @@
 using namespace std; 
   
 /*Fuction to get gcd of a and b*/
+//“You don't have to be great to start, but you have to start to be great.”
+
 int gcd(int a, int b) 
 { 
     if (b == 0) 
